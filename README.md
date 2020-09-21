@@ -1,2 +1,2 @@
 # midnight-interactive.github.io
-Website
+Website repository.
